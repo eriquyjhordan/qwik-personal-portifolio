@@ -25,7 +25,7 @@ export default component$(() => {
           Crie produtos digitais, marcas
         </Title>
         <SubtitleWrapper>
-          <SubTitleIllustration src="https://hrasslholpqvghzlczfm.supabase.co/storage/v1/object/public/site-images/exp-illustration.webp" alt="purple circle with a pencil inside" width={42} height={42} />
+          <SubTitleIllustration src="/images/exp-illustration.webp" alt="purple circle with a pencil inside" width={42} height={42} />
           <SubTitle>
             experiências
           </SubTitle>
@@ -43,7 +43,7 @@ export default component$(() => {
         </ButtonWrapper>
       </HeroLeft>
       <HeroRight>
-        <ImageHero src="https://hrasslholpqvghzlczfm.supabase.co/storage/v1/object/public/site-images/hero-image.webp" alt="Hero image" width={525} height={315} />
+        <ImageHero src="/images/hero-image.webp" alt="Hero image" width={525} height={315} />
       </HeroRight>
     </HeroSection>
   );
