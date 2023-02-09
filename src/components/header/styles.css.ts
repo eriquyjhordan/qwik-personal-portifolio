@@ -11,6 +11,7 @@ export const Header = styled.div`
 export const Logo = styled.img`
   font-size: 6rem;
   width: 26rem;
+  height: 2.86rem;
   @media (max-width: 1080px) {
     font-size: 8rem;
   }
